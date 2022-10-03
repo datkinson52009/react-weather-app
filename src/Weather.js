@@ -85,6 +85,15 @@ export default function Weather() {
           </div>
         </div>
       </div>
+      <p>
+        <a
+          href="https://github.com/datkinson52009/react-weather-app.git"
+          target="blank"
+        >
+          open-source code
+        </a>{" "}
+        , by Dimitri Atkinson
+      </p>
     </div>
   );
 }
